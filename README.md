@@ -1,7 +1,7 @@
-## 👋 | Hey, I'm Noah!
+## 👋 | Hey, I'm Clayy!
 
 #### I am a Self-Taught Developer always working on learning and developing new skills!
-- 📞 | You can contact me through **[Discord](https://discord.com/users/694367588464984095)** (**`ItsNoah#3408`**)
+- 📞 | You can contact me through **[Discord](https://discord.com/users/694367588464984095)** (**`ItsClayy#2627`**)
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
